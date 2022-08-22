@@ -2,7 +2,7 @@
 
 ### *Present* :ghost:
 #### 1. Simple
-: Used to talk about <strong>Present</strong>, State about <strong>facts</strong>
+: Used to talk about <strong>Present</strong>, State about <strong>facts</strong> :couplekiss_man_woman:
 <pre>
 <strong>Present</strong> : 
 - London <strong>is</strong> the capital of Britain.
@@ -10,14 +10,14 @@
 
 <strong>State a Fact</strong> :
 - The sun raises in the East.
-- Yinlong's wifey is beautiful. :couplekiss_man_woman:
+- Yinlong's wifey is beautiful.
 </pre>
 
 #### 2. Continuous
-: Talk about something happening <strong>right now</strong>, <strong>certain future</strong>
+: Talk about something happening <strong>right now</strong>, <strong>certain future</strong> :hamburger:
 <pre>
 <strong>Right now</strong> :
-- I am eating burgers :hamburger:
+- I am eating burgers.
 
 <strong>Certain future</strong> :
 - I am watching Woo young woo tonight
@@ -25,11 +25,11 @@
 </pre>
 
 #### 3. Perfect
-: Talk about experience <strong>up to</strong> the present
+: Talk about experience <strong>up to</strong> the present :dog:
 <pre>
 - I have seen this movie before
 - My last birthday was the best day I have ever had. 
-- Have you ever met Muchu? :dog:
+- Have you ever met Muchu? 
 - Where have you been ?
 - Have you seen my phone today ? 
 </pre>
@@ -50,10 +50,10 @@ ____________
 ### *Past* :walking_woman:
 
 #### 1. Simple
-: Talk about the past in general
+: Talk about the past in general  :tomato:
 <pre>
 - I met my wife in 2020.
-- She drank a lot of tomato juice last night. :tomato:
+- She drank a lot of tomato juice last night.
 - I did 1,000 pull ups everyday when I was 15 years old.
 </pre>
 
@@ -65,7 +65,7 @@ ____________
 </pre>
 
 #### 3. Perfect
-: Same as present perfect, but it <strong>refers to a time in the past, not the present</strong>.
+: Same as present perfect, but it <strong>refers to a time in the past, not the present</strong>. :old_key:
 <pre>
 <strong>Past Perfect</strong>
 - She didn't want to move. She had lived in Liverpool all her life.
@@ -73,7 +73,7 @@ ____________
 
 <strong>Compare to Present Perfect</strong>
 - She doesn't want to move, She has lived here for her whole life.
-- I cannot get into the house. I have lost my keys. :old_key:
+- I cannot get into the house. I have lost my keys. 
 </pre>
 
 
@@ -96,9 +96,9 @@ __________________
 ### *Future* :mrs_claus:
 
 #### - Simple
-: Talk about something possibly happening in the future
+: Talk about something possibly happening in the future :icecream:
 <pre>
-- I will ask my wife for an ice cream. :icecream:
+- I will ask my wife for an ice cream. 
 - I will not buy a new phone in the next half year.
 </pre>
 
@@ -110,10 +110,10 @@ __________________
 </pre>
 
 #### - Perfect
-: Same as Present Perfect, but it <strong>refers to a time in the future, not the present</strong>.
+: Same as Present Perfect, but it <strong>refers to a time in the future, not the present</strong>. :ramen:
 <pre>
 Can you call my by 6 P.M., I will have finished my work by then.
-If you come home by 10, I will have eaten your dinner. :ramen:
+If you come home by 10, I will have eaten your dinner. 
 </pre>
 
 #### - Perfect Continuous
