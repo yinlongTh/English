@@ -135,44 +135,56 @@ _________________
 1. ตอนสิ้นปีนี้ ฉันจะอ่านหนังสือได้ 500  เล่ม 
 <details><summary>Answer</summary>
 <p>
+  <pre>
 - I will have read 500 books by the end of the year.
 - I will read 500 books by the end of this year.
+</pre>
 </p>
 </details>
 
 2. ตอนยินยินอายุ 8 ขวบ，ยินยินอ่านหนังสือมาละ 100 เล่ม ! (lmaoo so unrealistic)
 <details><summary>Answer</summary>
 <p>
+  <pre>
 Yinyin had read at least 100 books by the time Yinyin was twelve.
+</pre>
 </p>
 </details>
 
 3. ก่อนคุณจะเกิดฉันว่ายน้ำมา 2 ปีละ (แต่ไม่ได้เลิกว่ายนะ)
 <details><summary>Answer</summary>
 <p>
+  <pre>
 I had been swimming for 2 year before you was born. 
+</pre>
 </p>
 </details>
 
 4. ฉันอ่านหนังสือมา 2 ชั่วโมงละ (ตอนนี้ก็ยังอ่านอยู่)
 <details><summary>Answer</summary>
 <p>
+  <pre>
 I have been studying for 2 hours. 
+</pre>
 </p>
 </details>
 
 5. Give me a scenario I should use Present Perfect Tense.
 <details><summary>Answer</summary>
 <p>
+<pre>
 You are the best!!! :heartbeat:
+</pre>
 </p>
 </details>
 
 6. เค้าจะคุยโทรศัพย์อย่างน้อย 2 ชั่งโมงก่อนมื้อเย็นนี้
 <details><summary>Answer</summary>
 <p>
+<pre>
 - I will have been speaking on my phone for at least two hours before dinner tonight.
 - I will be speaking on my phone at least 2 hours before dinner tonight
+</pre>
 </p>
 </details>
 
