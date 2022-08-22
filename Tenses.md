@@ -1,6 +1,6 @@
-## Tenses 
+## Tenses :smiling_face_with_three_hearts:
 
-### *Present* 
+### *Present* :ghost:
 #### 1. Simple
 : Used to talk about <strong>Present</strong>, State about <strong>facts</strong>
 <pre>
@@ -47,7 +47,7 @@
 
 ____________
 
-### *Past*
+### *Past* :walking_woman:
 
 #### 1. Simple
 : Talk about the past in general
@@ -93,7 +93,7 @@ And I still was working there when I got the promotion.
 
 __________________
 
-### *Future*
+### *Future* :mrs_claus:
 
 #### - Simple
 : Talk about something possibly happening in the future
@@ -130,12 +130,13 @@ If you come home by 10, I will have eaten your dinner.
 
 _________________
 
-### Want to try your understand ?
+### Want to try your understand ? :statue_of_liberty:
 
 1. ตอนสิ้นปีนี้ ฉันจะอ่านหนังสือได้ 500  เล่ม 
 <details><summary>Answer</summary>
 <p>
-I will have read 500 books by the end of the year.
+- I will have read 500 books by the end of the year.
+- I will read 500 books by the end of this year.
 </p>
 </details>
 
@@ -146,7 +147,7 @@ Yinyin had read at least 100 books by the time Yinyin was twelve.
 </p>
 </details>
 
-3. ก่อนคุณจะเกิดฉันว่ายน้ำมา 2 ปีละ
+3. ก่อนคุณจะเกิดฉันว่ายน้ำมา 2 ปีละ (แต่ไม่ได้เลิกว่ายนะ)
 <details><summary>Answer</summary>
 <p>
 I had been swimming for 2 year before you was born. 
@@ -163,14 +164,15 @@ I have been studying for 2 hours.
 5. Give me a scenario I should use Present Perfect Tense.
 <details><summary>Answer</summary>
 <p>
-I have read so many books I can’t keep count.
+You are the best!!! :heartbeat:
 </p>
 </details>
 
 6. เค้าจะคุยโทรศัพย์อย่างน้อย 2 ชั่งโมงก่อนมื้อเย็นนี้
 <details><summary>Answer</summary>
 <p>
-I will have been speaking on my phone for at least two hours before dinner tonight.
+- I will have been speaking on my phone for at least two hours before dinner tonight.
+- I will be speaking on my phone at least 2 hours before dinner tonight
 </p>
 </details>
 
