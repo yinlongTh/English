@@ -90,7 +90,8 @@ And I still was working there when I got the promotion.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/108507768/185896473-76d534fd-3e91-43ea-b7b8-1c8308423d0f.jpg" width="30%" height="30%">
 </p>
-____________
+
+__________________
 
 ### *Future*
 
@@ -125,7 +126,9 @@ If you come home by 10, I will have eaten your dinner.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/108507768/185896499-a6428759-353e-4fd6-a68e-a596ad0de0b5.jpg" width="30%" height="30%">
 </p>
-____________
+
+
+_________________
 
 <details><summary>Answer</summary>
 <p>
