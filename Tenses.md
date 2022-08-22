@@ -10,14 +10,14 @@
 
 <strong>State a Fact</strong> :
 - The sun raises in the East.
-- Yinlong's wifey is beautiful.
+- Yinlong's wifey is beautiful. :couplekiss_man_woman:
 </pre>
 
 #### 2. Continuous
 : Talk about something happening <strong>right now</strong>, <strong>certain future</strong>
 <pre>
 <strong>Right now</strong> :
-- I am eating burgers
+- I am eating burgers :hamburger:
 
 <strong>Certain future</strong> :
 - I am watching Woo young woo tonight
@@ -29,7 +29,7 @@
 <pre>
 - I have seen this movie before
 - My last birthday was the best day I have ever had. 
-- Have you ever met Muchu?
+- Have you ever met Muchu? :dog:
 - Where have you been ?
 - Have you seen my phone today ? 
 </pre>
@@ -52,8 +52,8 @@ ____________
 #### 1. Simple
 : Talk about the past in general
 <pre>
-- I met my wife in 2018.
-- She drank a lot of tomato juice last night.
+- I met my wife in 2020.
+- She drank a lot of tomato juice last night. :tomato:
 - I did 1,000 pull ups everyday when I was 15 years old.
 </pre>
 
@@ -73,7 +73,7 @@ ____________
 
 <strong>Compare to Present Perfect</strong>
 - She doesn't want to move, She has lived here for her whole life.
-- I cannot get into the house. I have lost my keys.
+- I cannot get into the house. I have lost my keys. :old_key:
 </pre>
 
 
@@ -98,7 +98,7 @@ __________________
 #### - Simple
 : Talk about something possibly happening in the future
 <pre>
-- I will ask my wife for an ice cream.
+- I will ask my wife for an ice cream. :icecream:
 - I will not buy a new phone in the next half year.
 </pre>
 
@@ -113,7 +113,7 @@ __________________
 : Same as Present Perfect, but it <strong>refers to a time in the future, not the present</strong>.
 <pre>
 Can you call my by 6 P.M., I will have finished my work by then.
-If you come home by 10, I will have eaten your dinner.
+If you come home by 10, I will have eaten your dinner. :ramen:
 </pre>
 
 #### - Perfect Continuous
