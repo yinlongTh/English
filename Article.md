@@ -42,14 +42,56 @@ _______________________________
 
 ## Ready ?
 1. I do not want ___ gun in our house. :house_with_garden:
+<details><summary>Answer</summary>
+<p>
+<pre>
+a
+</pre>
+</p>
+</details>
 
 2. I have ___ dog, ___ dog is very cute. (same dog ofc) :guide_dog:
+<details><summary>Answer</summary>
+<p>
+<pre>
+a, the
+</pre>
+</p>
+</details>
 
 3. Yinnie needs ___ furniture in our condo. :couch_and_lamp:
+<details><summary>Answer</summary>
+<p>
+<pre>
+No article : funiture is an uncountable and not specific here
+</pre>
+</p>
+</details>
 
 4. When I am in ___ hospital, I feel not bad. :hospital:
+<details><summary>Answer</summary>
+<p>
+<pre>
+a / the
+</pre>
+</p>
+</details>
 
 5. Let's play ___ tennis :tennis:
+<details><summary>Answer</summary>
+<p>
+<pre>
+No article : general tennis
+</pre>
+</p>
+</details>
 
 6. There are many great films on ___ TV. :tv:
+<details><summary>Answer</summary>
+<p>
+<pre>
+No article / the
+</pre>
+</p>
+</details>
 
