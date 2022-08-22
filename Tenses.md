@@ -130,9 +130,47 @@ If you come home by 10, I will have eaten your dinner.
 
 _________________
 
+### Want to try your understand ?
+
+1. 
 <details><summary>Answer</summary>
 <p>
-  
-Hi there, here is my answer
+I will have read at least 500 books by the end of the year.
 </p>
 </details>
+
+2.
+<details><summary>Answer</summary>
+<p>
+I had read at least 100 books by the time I was twelve.
+</p>
+</details>
+
+3.
+<details><summary>Answer</summary>
+<p>
+I had been swimming for 2 year before you was born. 
+</p>
+</details>
+
+4.
+<details><summary>Answer</summary>
+<p>
+I have been studying for 2 hours. 
+</p>
+</details>
+
+5.
+<details><summary>Answer</summary>
+<p>
+I have read so many books I can’t keep count.
+</p>
+</details>
+
+6.
+<details><summary>Answer</summary>
+<p>
+I will have been reading for at least two hours before dinner tonight.
+</p>
+</details>
+
