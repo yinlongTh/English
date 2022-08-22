@@ -132,45 +132,45 @@ _________________
 
 ### Want to try your understand ?
 
-1. 
+1. ตอนสิ้นปีนี้ ฉันจะอ่านหนังสือได้ 500  เล่ม 
 <details><summary>Answer</summary>
 <p>
-I will have read at least 500 books by the end of the year.
+I will have read 500 books by the end of the year.
 </p>
 </details>
 
-2.
+2. ตอนยินยินอายุ 8 ขวบ，ยินยินอ่านหนังสือมาละ 100 เล่ม ! (lmaoo so unrealistic)
 <details><summary>Answer</summary>
 <p>
-I had read at least 100 books by the time I was twelve.
+Yinyin had read at least 100 books by the time Yinyin was twelve.
 </p>
 </details>
 
-3.
+3. ก่อนคุณจะเกิดฉันว่ายน้ำมา 2 ปีละ
 <details><summary>Answer</summary>
 <p>
 I had been swimming for 2 year before you was born. 
 </p>
 </details>
 
-4.
+4. ฉันอ่านหนังสือมา 2 ชั่วโมงละ (ตอนนี้ก็ยังอ่านอยู่)
 <details><summary>Answer</summary>
 <p>
 I have been studying for 2 hours. 
 </p>
 </details>
 
-5.
+5. Give me a scenario I should use Present Perfect Tense.
 <details><summary>Answer</summary>
 <p>
 I have read so many books I can’t keep count.
 </p>
 </details>
 
-6.
+6. เค้าจะคุยโทรศัพย์อย่างน้อย 2 ชั่งโมงก่อนมื้อเย็นนี้
 <details><summary>Answer</summary>
 <p>
-I will have been reading for at least two hours before dinner tonight.
+I will have been speaking on my phone for at least two hours before dinner tonight.
 </p>
 </details>
 
